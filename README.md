@@ -1,0 +1,1 @@
+Introduction to databases using select statements, distinct operators, where clauses, in operators, like operators, limit operators, order by statements, and joins including left, right and inner joins as well as using mutiple joins.
